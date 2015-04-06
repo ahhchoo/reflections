@@ -1,0 +1,11 @@
+1.What happens when you initialize a repository? Why do you need to do it?
+
+Initialize repo with git init, you make a new repo with 0 commits. You do it beacuse if you want to work with multiple files who work together, repo helps monitor changes.
+
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging Area allows user to upload multiple files into one commit.
+
+
+

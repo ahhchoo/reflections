@@ -21,4 +21,6 @@ b. use code in different languages
 
 Branches keep track of these changes without changing original code. 
 
+5. How do the diagrams help you visualize the branch structure?
 
+Diagrams let user trace the branch from tip to parent. Diagrams also let user see the reachability of the commits. 

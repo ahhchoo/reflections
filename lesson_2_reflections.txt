@@ -13,4 +13,12 @@ Staging Area allows user to upload multiple files into one commit.
 Because the staging area allows you to insert multiple files into one commit, you can 
 make one logical change before putting all files onto the staging area again. 
 
-4. 
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches help keep history oragnized in situations where:
+a. you wanna test an experimental code
+b. use code in different languages
+
+Branches keep track of these changes without changing original code. 
+
+

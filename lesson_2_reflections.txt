@@ -8,4 +8,9 @@ Initialize repo with git init, you make a new repo with 0 commits. You do it bea
 Staging Area allows user to upload multiple files into one commit.
 
 
+3. How can you use the staging area to make sure you have one commit per logical change?
 
+Because the staging area allows you to insert multiple files into one commit, you can 
+make one logical change before putting all files onto the staging area again. 
+
+4. 

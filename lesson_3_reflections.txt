@@ -1,0 +1,5 @@
+1. When would you want to use a remote repository rather than keeping all your work local?
+
+If I am constantly on the go, I would want to use a remote repo rather than keeping all work local. 
+As long as I have access to the internet, I can use GitHub to use a remote repository
+and then later transfer these files to a remote location. 

@@ -30,3 +30,13 @@ Diagrams let user trace the branch from tip to parent. Diagrams also let user se
 Result of merging two branches together -> combining final results of files after branching. 
 This enables people who've worked on multipe features to join them into the new master. 
 A diagram allows you to trace the commits and its parents. 
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros of Auto Merge vs Manual Merge
+-Don't need to examine all lines of code, Git will do it for you
+-Just need to worry about Commit Messages
+
+Cons
+-If there is any questiontable lines of code, and if git decides for you, it may cause compilation errors. 
+-Therefore, you would have to refer back to parent commits. 

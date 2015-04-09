@@ -48,3 +48,8 @@ When tested code is finalized, I can merge the branch and the master to a new ti
 The benefit of having a copy of the last known state of the state stored locally is that I don't
 need to have access to the internet to see where I last pulled from. Instead, I can just look up 
 and compare how many changes I've made since then. 
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Collaboration without using Git or GitHub would be easy if I'm collaborating with someone/people I see and work with frequently. That way I would only need to send that person/people the code to look out. However, if the code was much bigger and the project entailed more complicated stuff, I would realize that using Git or GitHub would make things easier when looking back on changes I've made or my collaborators have made. 
+

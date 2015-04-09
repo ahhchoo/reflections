@@ -3,3 +3,42 @@
 If I am constantly on the go, I would want to use a remote repo rather than keeping all work local. 
 As long as I have access to the internet, I can use GitHub to use a remote repository
 and then later transfer these files to a remote location. 
+
+2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Pull changes manually vs. Git automatically updating remote repo
+a. because maybe there are commits on my remote repository that are different than my GitHub repo
+
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Differences
+Forks- Cloning repositories between GitHub accounts. 
+Clones- Cloning repositories between GitHub repo to local repo OR
+		Cloning repositories between local repo and URL  
+		Cloning repositoies between local repo and local repo
+Branches- Acting on local repositories only. 
+		  Enables multiple user to branch into multiple versions from any commit. 
+		  Used for experimenting with code without disabling previous versions. 
+		  Can be merged at the end to combine different kinds of code.
+
+When to use one instead of another-
+Forks vs. Clones
+Use fork if I want to clone a GitHub repo into my GitHub repo
+
+Clones vs. Forks
+Use clones if I want to clone GitHub repo into local repo
+
+Forks vs. Branches
+Fork only involved in GitHub.
+Branch involved in local repo. If a user forks a repo, they can commit a branch to their personal repo. 
+
+Branches vs. Forks
+Not wanting to commit onto GitHub, so experiemnt with branching on local repo. 
+
+Clones vs. Branches
+Clone if I want to copy an entire repo (all commits) to make own changes (i.g. forking)
+
+Branches vs. Clones
+Branch if I just want to experiment from a certain point. While I can still commit on a branch, 
+these commits are not considered official parts of the repo b/c they're menat to test code. 
+When tested code is finalized, I can merge the branch and the master to a new tip. 
